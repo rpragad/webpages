@@ -1,0 +1,17 @@
+commit 45ed9ea86ece14170cb8c13ed12c06fb71b5f31e
+Author: riya p <69091243+riyapragada@users.noreply.github.com>
+Date:   Sat Nov 8 19:22:24 2025 -0500
+
+    update to my webpage and stylesheet
+
+commit a18f5cd291a951643dbc135b35e618983c10492e
+Author: riya p <69091243+riyapragada@users.noreply.github.com>
+Date:   Sat Nov 8 18:57:17 2025 -0500
+
+    adding template files
+
+commit 1b5c5464af4777bef78cece788b8ab832e27f9d3
+Author: rpragad <rpragad@ncsu.edu>
+Date:   Sat Nov 8 18:43:38 2025 -0500
+
+    Initial commit
